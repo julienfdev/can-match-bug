@@ -1,0 +1,7 @@
+{
+  "name": "can-match-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
